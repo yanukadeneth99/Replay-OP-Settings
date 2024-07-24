@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShortcutsTemplate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Keyboard Bindings</Name>
+  <Shortcuts>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>8c95891c-f0b1-45c1-b5d2-d6353d72fbba</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>D1</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayACamera1</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>6fb64a53-f080-4c5e-9aa6-8049cedf16f9</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>D2</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayACamera2</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>c7c0fb9b-d1d6-4ae4-91ad-1531707b4dbd</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>D3</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayACamera3</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>23828cc1-3685-4119-8d70-a200c7828643</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>D8</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayBCamera3</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>108cac99-e0ba-4bc1-8e7c-3999f0ffafdd</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>D9</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayBCamera2</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>ca6661c5-a8a9-4d52-824e-5a4184e19843</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>D0</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayBCamera1</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>ac6a592b-8d9a-4247-b119-8ccfbe47fffb</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>S</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySwapChannels</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>e9087318-639a-4a28-b291-4dba47a2167f</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>5</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Q</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayMarkInOut</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>b8b2d207-ef92-4c9d-9979-0f71e8fdf075</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>10</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>W</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayMarkInOut</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>5178b025-5b69-46c6-94b7-15ce2f53364c</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>15</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>E</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayMarkInOut</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>4c77c4e1-b136-4a71-a955-227d61b2de5f</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>OemOpenBrackets</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayMarkIn</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>460e652c-4b85-4922-8d37-d3aaa40e84ad</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>OemCloseBrackets</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayMarkOut</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>eaa261b4-57bb-4a33-b80a-446277dbccc1</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>A</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectAllEvents</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <StreamDeckContext />
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>4b0e5660-57f9-4084-8f61-dc305a226224</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>J</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayPlaySelectedEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>a030adfb-fb7b-4c3a-a54c-7dfec2757e54</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>MIDINoteOn</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayPlayAllEventsToOutput</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>24</MIDINote>
+      <MIDIValue>127</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>2de1489c-1e62-402b-a836-d80c278afcb6</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers>
+        <vMixKeys>F</vMixKeys>
+      </Triggers>
+      <Title />
+      <Value>-60</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>O</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayJumpFrames</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>10b7fb9c-ee4c-47e7-9ca3-e4f48c34cabb</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers>
+        <vMixKeys>G</vMixKeys>
+      </Triggers>
+      <Title />
+      <Value>60</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>P</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayJumpFrames</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>9904b525-396f-4e78-82e4-4c0f38ab421a</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>End</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectLastEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>bc0d2911-f8d9-464c-94bd-7e2d2fb05170</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>L</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayPlayLastEventToOutput</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>435b0299-1945-4580-94a4-a8722d0746fd</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Add</ExpandedKey>
+      <Key>None</Key>
+      <Function>Fullscreen</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>251d0329-fcd6-4fd1-ba5f-d77b36c892d7</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Space</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayPlayPause</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>af1a65e1-a33d-4de4-9bcf-e87d0ee7580d</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Decimal</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayDeleteSelectedEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>200ac7be-ec59-4cce-ab4d-5b114fa6d056</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>10</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>M</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayMoveSelectedEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>b39911ed-8a2d-4f08-9cba-dc082c892c45</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>S</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Z</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySetSelectedEventText</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>734a0a49-f49b-422b-af71-3ae535264be1</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>M</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>X</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySetSelectedEventText</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>4d7b7dc9-1f32-4417-8f0e-2180fa4b5821</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>D</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>C</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySetSelectedEventText</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>85257db8-303e-4f7b-92e8-5ea373db98a3</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>K</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>V</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySetSelectedEventText</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>0d777280-5a02-478f-b74a-77d20b198f77</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>1</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>OemPeriod</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySetSpeed</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>8388da48-6534-41f7-93a3-686c283d0860</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>0.5</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Oemcomma</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySetSpeed</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>8c4d1170-c6f8-418d-ba9c-bd23e67b8d04</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>2</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>NumPad7</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayFastBackward</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>197d086a-89c7-4d26-9603-0a6fe4decbb6</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>1</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>NumPad8</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayFastForward</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>b4f627cf-7193-4134-b93f-85017de79c4a</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>2</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>NumPad9</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayFastForward</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>1b4475f9-14d8-4924-9b63-cf4f07cc9dea</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>1</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>NumPad1</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectedEventSingleCameraOn</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>5e6270b0-6cc3-41db-ae71-e188e34c8fc2</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>2</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>NumPad2</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectedEventSingleCameraOn</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>0511f95b-cbb4-4b47-abca-beb90519d299</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>3</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>NumPad3</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectedEventSingleCameraOn</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>d4a224aa-4d19-4a41-a875-973056a4385c</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>4</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>NumPad4</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectedEventSingleCameraOn</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>b09e387a-a5ac-44de-a455-0fa7ef79ccae</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Home</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayLiveToggle</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>4adbd96c-e765-497c-bc5c-5315bb86f90a</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>F</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayUpdateSelectedInPoint</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>b8057768-bcd8-41e0-b6db-7143eb890b48</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>G</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayUpdateSelectedOutPoint</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>dc1399a5-9931-4288-bfe6-2f1d1eed70b5</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>K</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayStopEvents</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>cbe77cca-b5a6-45ca-82e0-b38180da6618</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Up</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectPreviousEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>7bb1c4a4-051d-4432-bdbc-e8c0f67e9b55</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Down</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectNextEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>d6009c75-8341-4418-8393-195457ce510e</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Left</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayPlayPrevious</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>b44e8589-1d51-4040-8951-8672ddbc5379</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Right</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayPlayNext</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>65a5f167-924c-4cb9-967c-a4a79c2bf097</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers>
+        <vMixKeys>NumPad4</vMixKeys>
+        <vMixKeys>F9</vMixKeys>
+      </Triggers>
+      <Title />
+      <Value>2</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>PageUp</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayUpdateSelectedSpeedDefault</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>cde16a96-1249-4d76-8add-c0842f7d473c</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers>
+        <vMixKeys>F10</vMixKeys>
+      </Triggers>
+      <Title />
+      <Value>0</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>PageDown</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayUpdateSelectedSpeedDefault</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>116895dd-47ae-4cd8-be0c-a9c931c4ffed</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>Subtract</ExpandedKey>
+      <Key>None</Key>
+      <Function>Cut</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>94c7ecc9-a819-4a56-bc71-facdcf450f83</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>2</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>U</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySelectNextEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>43c057b5-cadb-4693-bda4-4f63634d1e62</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>0.5</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>OemQuotes</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayUpdateSelectedSpeedDefault</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>4b3ffa4b-bcee-4df5-91d6-71706ba84171</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers>
+        <vMixKeys>MIDINoteOff</vMixKeys>
+        <vMixKeys>OemPeriod</vMixKeys>
+      </Triggers>
+      <Title />
+      <Value>0.5</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>OemSemicolon</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySetSpeed</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>fac037e6-c260-49dd-ab27-f32b3d5f0a8a</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value />
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>MIDINoteOff</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayUpdateSelectedSpeed</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>32</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>8cd40ae6-d32c-43a9-add3-ff135eefb6ea</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers>
+        <vMixKeys>MIDINoteOn</vMixKeys>
+      </Triggers>
+      <Title />
+      <Value>1</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>H</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplaySetSpeed</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>c64b811f-326c-4092-b79a-a0b210d85e2e</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>2</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>F9</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayMoveSelectedEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+    <Shortcut>
+      <DisplayType>Default</DisplayType>
+      <DisplayValue />
+      <ID>bd25ca7e-c17e-4028-825b-d5bb706609fd</ID>
+      <GetInputByNumber>false</GetInputByNumber>
+      <Disabled>false</Disabled>
+      <ControllerHidden>false</ControllerHidden>
+      <Triggers />
+      <Title />
+      <Value>0</Value>
+      <Description1 />
+      <Description2 />
+      <SelectedIndex>-1</SelectedIndex>
+      <ExpandedKey>F10</ExpandedKey>
+      <Key>None</Key>
+      <Function>ReplayMoveSelectedEvent</Function>
+      <Duration>1000</Duration>
+      <Input>
+        <Key>00000000-0000-0000-0000-000000000000</Key>
+        <Number>0</Number>
+      </Input>
+      <Mix>0</Mix>
+      <ReplayChannel>Current</ReplayChannel>
+      <MIDIChannel>0</MIDIChannel>
+      <MIDINote>0</MIDINote>
+      <MIDIValue>0</MIDIValue>
+      <MIDIValueEnabled>false</MIDIValueEnabled>
+      <MIDIValueType>Default</MIDIValueType>
+      <JSIndex>0</JSIndex>
+      <JSButton>0</JSButton>
+      <JSPressureEnabled>false</JSPressureEnabled>
+      <ExtraData />
+    </Shortcut>
+  </Shortcuts>
+</ShortcutsTemplate>
