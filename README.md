@@ -4,14 +4,15 @@ Maintaining my Replay Settings on this Repository. Check out the Releases to get
 
 [Explanation on the Settings](https://www.notion.so/yanukadeneth99/Esports-Replay-Settings-d082e88b99a84bcfbf8dda5ae1a0c6ab?pvs=4)
 
-## VMix
-
-- [VMix](/vmix)
-
 ### Keyboard
 
-![KeyboardVmix](https://i.imgur.com/2TZKKaP.png)
+![KeyboardVmix](https://i.imgur.com/VasmHcg.png)
 
 ## Updates
 
-- Moved out of ShuttlePro and into just using Keyboard
+- 28-Oct-2024 - Added in 4 buttons to extend selected clip left or right, by @JanithFX
+- 24-July-2024 - Moved out of ShuttlePro and into just using Keyboard
+
+## VMix
+
+- [VMix](/vmix)
