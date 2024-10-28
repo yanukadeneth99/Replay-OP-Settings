@@ -10,7 +10,7 @@ Maintaining my Replay Settings on this Repository. Check out the Releases to get
 
 ## Updates
 
-- 28-Oct-2024 - Added in 4 buttons to extend selected clip left or right, by @JanithFX
+- 28-Oct-2024 - Added in 4 buttons to extend selected clip left or right, by [@JanithFX](https://github.com/JanithFX)
 - 24-July-2024 - Moved out of ShuttlePro and into just using Keyboard
 
 ## VMix
